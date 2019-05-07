@@ -2,7 +2,7 @@
 <br>
 <br>
 <p align="center">
-  <img src="https://github.com/rkruk/funpi/blob/master/img/17.gif?raw=true">
+  <img src="https://github.com/rkruk/funpi/blob/master/img/17.gif">
 </p>
 <br>
 <p>This repository exist only as my own reference configuration for Raspberry PI <a href="https://clusterhat.com/">Mini Cluster On Board</a> setup (4 x Rasberry Zero on top of the Cluster HAT plugged in to Rasberry Pi 3B).<br><br>
