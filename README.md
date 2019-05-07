@@ -14,4 +14,4 @@ Why this project is different? - I'm not going to use the Raspbian/Debian here. 
 <p><b>Clarification Notice:</b><br>
 I'm not the owner of original scripts, code, board design, etc.. All that are copyrighted by a rightfull owner.<br>
 The ClusterHat board, designs and original code belongs to and are copyrighted by Chris Burton t/a 8086 Consultancy.<br> 
-I am a big fan of this little board and this repository exist only as a specific reference for fitting Funtoo/Gentoo linux based on Manual Software Setup written by Chris Burton <a href="https://clusterhat.com/setup-software">here</a></p>.
+I am a big fan of this little board and this repository exist only as a specific reference for fitting Funtoo/Gentoo linux based on Manual Software Setup written by Chris Burton <a href="https://clusterhat.com/setup-software">here</a>.</p>.
